@@ -1,0 +1,1841 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.landing-page-design-vhz {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 {
+  box-sizing: border-box;
+  padding: 5rem 12.7rem 10rem 13.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .group-40071-n9r {
+  margin-right: 40.4366rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .group-40071-n9r .group-40070-tig {
+  margin-right: 1.6626rem;
+  width: 5.6008rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .group-40071-n9r .hero-travel-RCp {
+  margin-bottom: 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .group-40071-n9r .hero-travel-RCp .hero-travel-RCp-sub-0 {
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .group-40071-n9r .hero-travel-RCp .hero-travel-RCp-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG {
+  margin: 1.3rem 0rem 1.2rem 0rem;
+  height: calc(100% - 2.5rem);
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG .home-C92 {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG .packages-7mn {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG .testimonial-Tak {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG .blog-oPi {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-hdst-VAk .nav-text-hCG .contact-Ys6 {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #424247;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr {
+  margin: 0rem 0.8rem 10rem 0rem;
+  box-sizing: border-box;
+  padding: 10.6rem 18.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  border-radius: 1.6rem;
+  background: linear-gradient(180deg, rgba(19, 19, 24, 0.8000000119) -0%, rgba(19, 19, 24, 0.8000000119) 100%);
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .group-3-VQx {
+  margin: 0rem 7.65rem 4.8rem 7.65rem;
+  width: calc(100% - 15.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .group-3-VQx .explore-your-travel-Drk {
+  margin-bottom: 2.3rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .group-3-VQx .dolor-sit-amet-consectetur-nullam-suspendisse-vitae-ultricies-dolor-adipiscing-in-et-odio-enim-ac-quis-sapien-urna-eu-phasellus-jME {
+  max-width: 64.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa {
+  box-sizing: border-box;
+  padding: 1.6rem;
+  width: 100%;
+  height: 8.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-4-KaL {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.5rem 1.6rem;
+  width: 17.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-w5v {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-w5v .when-4RS {
+  margin-right: 7.85rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-w5v .frame-PTi {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-uS4 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.95rem 1.5rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-uS4 .select-type-e8k {
+  margin-right: 3.95rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.5);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-5-uS4 .frame-mjA {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 0.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-8-HhW {
+  box-sizing: border-box;
+  padding: 1.4rem 3.4rem 1.4rem 3.5rem;
+  width: 17.4rem;
+  height: 100%;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-8-HhW .group-7-D5N {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.3rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-8-HhW .group-7-D5N .frame-Lfn {
+  margin: 0rem 1.1rem 0.1rem 0rem;
+  width: 1.8001rem;
+  height: 1.8001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-13-UVr .group-12-M3r .frame-1-Pwa .group-8-HhW .group-7-D5N .find-now-sQp {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 55rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 {
+  margin-right: 7.3rem;
+  width: 55.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .our-popular-tours-sSk {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-zXN {
+  margin-bottom: 2.4rem;
+  max-width: 55.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .group-14-4n8 {
+  margin-bottom: 2.4rem;
+  row-gap: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .group-14-4n8 .tempus-euismod-lacus-mauris-dignissim-quis-in-ultrices-magna-nullam-odio-neque-diam-sociis-erat-at--Qb6 {
+  max-width: 52.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .group-14-4n8 .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-h4Q {
+  max-width: 48.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .group-14-4n8 .accumsan-eget-et-turpis-praesent-lorem-egestas-enim-elit-bibendum-risus-at-in-PT2 {
+  max-width: 50.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-15-vGc .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-id-bibendum-nunc-senectus-semper-tincidunt-Txg {
+  max-width: 53rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .auto-group-qlu2-B48 .group-8-WRA {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-evtq-T88 .rectangle-4-bBi {
+  width: 54rem;
+  height: 55rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-WZa {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-WZa .choose-your-destination-RgY {
+  margin: 0rem 0.1rem 2.3rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-WZa .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-8ax {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-bdrl-DcQ {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-bdrl-DcQ .auto-group-tsj6-wYQ {
+  margin-right: 2.4rem;
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-bdrl-DcQ .auto-group-jo3r-n3E {
+  width: 57.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8.png');
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-n7ks-s4g {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  height: 28.6rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-n7ks-s4g .auto-group-rlt6-PHv {
+  width: 37.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-6-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-n7ks-s4g .auto-group-vgwx-FL8 {
+  width: 47.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-7-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-n7ks-s4g .auto-group-wf4g-hC8 {
+  width: 27.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-9-bg-Rhn.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-ewbz-A5i {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-ewbz-A5i .auto-group-hzra-3QQ {
+  margin-right: 2.4rem;
+  width: 47.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-ewbz-A5i .auto-group-hyxu-tR2 {
+  width: 67.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 19, 24, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-YP6 {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-YP6 .why-choose-us-TW4 {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-YP6 .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-Zoz {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 28.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(251, 181, 99, 0.200000003);
+  background-color: rgba(251, 181, 99, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W .group-22-FKS {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W .group-22-FKS .hotel-1-1Jc {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W .group-22-FKS .group-21-jkQ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W .group-22-FKS .group-21-jkQ .handpicked-hotels-6ax {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-23-91W .group-22-FKS .group-21-jkQ .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-R7S {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL {
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: 57.3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(41, 206, 246, 0.200000003);
+  background-color: rgba(41, 206, 246, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL .group-22-VmW {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL .group-22-VmW .group-27-Swe {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL .group-22-VmW .group-21-NKW {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL .group-22-VmW .group-21-NKW .world-class-service-83n {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-xszk-eKe .group-24-bAL .group-22-VmW .group-21-NKW .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-S4U {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL {
+  margin: 0rem 30.7rem 10rem 29.8rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.5rem 3.2rem 3.2rem;
+  width: calc(100% - 60.5rem);
+  height: 28.4rem;
+  border: solid 0.1rem rgba(233, 68, 68, 0.200000003);
+  background-color: rgba(233, 68, 68, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL .group-22-iRJ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL .group-22-iRJ .group-26-f5e {
+  margin-bottom: 3.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL .group-22-iRJ .group-21-BJt {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL .group-22-iRJ .group-21-BJt .best-price-guarantee-XtY {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-25-DzL .group-22-iRJ .group-21-BJt .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-risus-natoque-aliquet-rA8 {
+  max-width: 48.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-Tfi {
+  margin: 0rem 28.65rem 4.8rem 27.75rem;
+  width: calc(100% - 56.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-Tfi .deals-discounts-mRW {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-18-Tfi .dolor-sit-amet-consectetur-diam-volutpat-neque-habitasse-pharetra-odio-sit-massa-sodales-dictumst-nec-nibh-pellentesque-Hue {
+  max-width: 61.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(19, 19, 24, 0.6999999881);
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-32-3vk {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-32-3vk .frame-PDv {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-32-3vk .day-6-night-6u2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-33-RwJ {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-33-RwJ .frame-Adz {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-33-RwJ .max-10-61r {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-34-2RJ {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-34-2RJ .frame-AXW {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-35-vbE .group-34-2RJ .malaysia-gkk {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .tour-to-satorini-mnC {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-udW {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .price-1300-1500-Bqv {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .group-8-uX2 {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .group-8-uX2 .group-7-492 {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-39-mK2 .group-38-r5a .group-37-NZi .group-36-prx .group-8-uX2 .group-7-492 .group-31-RVN {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG {
+  margin: 0rem 0.8rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 5.6rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-iVA.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG {
+  margin-right: 47.9rem;
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 57.9rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-32-WHr {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-32-WHr .frame-cbn {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-32-WHr .day-6-night-95v {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-33-U8C {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-33-U8C .frame-ogG {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-33-U8C .max-10-Y84 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-34-gVA {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-34-gVA .frame-d9W {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-35-mr4 .group-34-gVA .malaysia-YXN {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .tour-to-satorini-dYp {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-xqz {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .price-1300-1500-EoW {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .group-8-moS {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .group-8-moS .group-7-8dz {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-40-bYG .group-38-tnG .group-37-2Ng .group-36-GyA .group-8-moS .group-7-8dz .group-31-JYU {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov {
+  margin: 0rem 0.8rem 4.8rem 0rem;
+  box-sizing: border-box;
+  padding: 5.6rem 5.6rem 5.5rem 53.5rem;
+  width: 117rem;
+  height: 50rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-VKS.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN {
+  box-sizing: border-box;
+  padding: 5rem 7.7rem 5rem 5rem;
+  width: 100%;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  backdrop-filter: blur(0.25rem);
+  background-color: rgba(255, 255, 255, 0.8000000119);
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW {
+  margin-bottom: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-32-e8U {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.225rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-32-e8U .frame-NqA {
+  margin: 0rem 1.025rem 0.1rem 0rem;
+  width: 1.95rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-32-e8U .day-6-night-6WG {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-33-px4 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-33-px4 .frame-Zue {
+  margin: 0rem 0.95rem 0.025rem 0rem;
+  width: 2.1rem;
+  height: 1.875rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-33-px4 .max-10-gzG {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-34-QvG {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 0.375rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-34-QvG .frame-kjE {
+  margin: 0rem 1.175rem 0.025rem 0rem;
+  width: 1.65rem;
+  height: 2.0248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-35-JKW .group-34-QvG .malaysia-5mW {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .tour-to-satorini-zNg {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-habitant-adipiscing-XdW {
+  margin-bottom: 1.6rem;
+  max-width: 45.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .price-1300-1500-1Hn {
+  margin-bottom: 2.3rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .group-8-YHi {
+  width: 15rem;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .group-8-YHi .group-7-hRW {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-41-gov .group-38-CXN .group-37-Lda .group-36-dHE .group-8-YHi .group-7-hRW .group-31-UBN {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-8-FbS {
+  margin: 0rem 48.8rem 10rem 48rem;
+  width: calc(100% - 96.8rem);
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-8-FbS .group-7-mpg {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .group-8-FbS .group-7-mpg .group-42-k2Q {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix {
+  margin: 0rem 0.8rem 10rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 42.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS {
+  margin: 0rem 2.8rem 0rem 0rem;
+  width: 53.2rem;
+  height: calc(100% - 0rem);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS .a-simple-perfect-place-to-get-lost-z5A {
+  margin-bottom: 2.4rem;
+  max-width: 44.1rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS .amet-consectetur-vulputate-commodo-felis-molestie-risus-ornare-nulla-amet-et-libero-commodo-sagittis-dignissim-adipiscing-quis-6tt {
+  margin-bottom: 2.4rem;
+  max-width: 52.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-P7J {
+  margin-bottom: 1.6rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS .adipiscing-ornare-pellentesque-mauris-volutpat-tortor-vitae-platea-porta-lacus-lectus-suspendisse-nullam-Ggt {
+  margin-bottom: 3.2rem;
+  max-width: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.625;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-43-sFS .group-42-NE8 {
+  width: 17.4rem;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt {
+  margin-right: 0rem;
+  width: 61rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .rectangle-10-ab6 {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .rectangle-11-uNU {
+  width: 61rem;
+  height: 42.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(0deg, #131318 -31.96%, rgba(19, 19, 24, 0) 100%);
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-39464-R5v {
+  width: 56.2rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 39.5rem;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-39464-R5v .group-8-xLk {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-39464-R5v .group-8-xLk .group-40061-X8x {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-39464-R5v .group-8-xLk .group-40061-X8x .group-7-tEQ {
+  margin-right: 47.5rem;
+  width: 8.7rem;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-39464-R5v .group-8-xLk .group-40061-X8x .group-7-tEQ .rectangle-5-Ep4 {
+  width: 100%;
+  height: 0.4rem;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40062-LcC {
+  width: 6.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40062-LcC .group-39472-sME {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40062-LcC .item-000-okg {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f3f3f3;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40063-vaQ {
+  box-sizing: border-box;
+  padding-right: 1.125rem;
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 48.2rem;
+  top: 35.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40063-vaQ .group-39481-3Q8 {
+  margin-right: 2.725rem;
+  width: 6.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .group-40063-vaQ .frame-aur {
+  width: 0.15rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-l3nk-Yix .group-40089-SUt .watch-our-mountain-in-bangladesh-XaC {
+  width: 27.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 16.75rem;
+  top: 17.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W {
+  margin: 0rem 0.752rem 0rem 0rem;
+  width: calc(100% - 0.7517rem);
+  height: 42.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 {
+  margin-right: 2.4rem;
+  box-sizing: border-box;
+  padding: 4rem 4.1rem 4rem 4rem;
+  width: 47.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ff5400;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-40066-2fN {
+  margin: 0rem 5.6rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-40066-2fN .newsletter-y4p {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #131318;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-40066-2fN .get-your-daily-dose-of-travel-news-tips-sign-up-today-JMz {
+  max-width: 33.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .line-1-236 {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-10-AQC {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-10-AQC .group-5-7aL {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-40067-ycY {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 5.2rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-40067-ycY .group-5-w3a {
+  box-sizing: border-box;
+  padding: 1.6rem 2rem 1.5rem 2rem;
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: rgba(19, 19, 24, 0.3000000119);
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  border-radius: 0.8rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .group-40093-w88 .group-42-1JL {
+  width: 100%;
+  height: 5.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff5400;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU {
+  width: 67.2483rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU .rectangle-8-oV6 {
+  width: 67.2rem;
+  height: 42.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU .group-40069-XR6 {
+  box-sizing: border-box;
+  padding: 5.626rem 4.466rem 5.626rem 5.682rem;
+  width: 34.5483rem;
+  height: 22.1864rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 20rem;
+  background-color: #ff5400;
+  border-radius: 1.6rem;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU .group-40069-XR6 .group-40068-2ck {
+  width: 100%;
+  height: 5.1862rem;
+  position: relative;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU .group-40069-XR6 .group-40068-2ck .travelcom-PCQ {
+  width: 11.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 4.8557rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-vhz .auto-group-wu1e-wd6 .auto-group-6voa-p3W .auto-group-fbvt-FiU .group-40069-XR6 .group-40068-2ck .save-up-to-70-VmE {
+  width: 24.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.0862rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn {
+  box-sizing: border-box;
+  padding: 11rem 6rem 10.9rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(19, 19, 24, 0.0500000007);
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .group-40072-GfW {
+  margin: 0rem 54.733rem 1.4rem 54rem;
+  width: calc(100% - 108.7327rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .group-40072-GfW .group-40070-o9e {
+  margin-right: 1.6rem;
+  width: 4.6673rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .group-40072-GfW .hero-travel-Y7E {
+  margin-top: 0rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2549999952;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .group-40072-GfW .hero-travel-Y7E .hero-travel-Y7E-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #121218;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .group-40072-GfW .hero-travel-Y7E .hero-travel-Y7E-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #ff5400;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .lorem-ipsum-dolor-sit-amet-consectetur-nulla-sit-viverra-morbi-vitae-blandit-orci-potenti-vulputate-leo-erat-maecenas-vitae-elementum-ultricies-nullam-Kfi {
+  margin: 0rem 0.1rem 3.2rem 0rem;
+  max-width: 75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5a5a5d;
+  font-family: Mulish, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .auto-group-cnpc-xya {
+  margin-bottom: 5rem;
+  width: 132rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .line-2-VyW {
+  margin: 0rem 22.4rem 4.9rem 22.4rem;
+  width: calc(100% - 44.8rem);
+  height: 0.1rem;
+  background-color: rgba(19, 19, 24, 0.1000000015);
+  flex-shrink: 0;
+}
+.landing-page-design-vhz .auto-group-gxnu-9qn .all-rights-reserved-coE {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #131318;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
